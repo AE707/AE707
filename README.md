@@ -41,7 +41,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mqtt/mqtt-ar21.svg"></code>
+  <code><img width="15%" src="https://upload.vectorlogo.zone/logos/mqtt/images/8d554269-27ff-439e-a60b-cacf4943632b.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
