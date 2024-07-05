@@ -76,7 +76,7 @@
 </p>
 </div>
 
-## 👀 Views and Followers ❤
+## 👀 Views and Followers :white_heart:
 <a href="https://github.com/AE707">
     <img src="https://komarev.com/ghpvc/?username=AE707">
 </a>
