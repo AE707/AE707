@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Alaa 👋</h1>
-<h2 align="center">Alaa ElGhoul 🧞‍♂️ </h2>
+<h2 align="center">Alaa ElGhoul</h2>
 
 <h2>💫 Summary</h2>
 🌱 As a Master's student in Computer Engineering at Istanbul Atlas University, I am passionate about software development, machine learning, and data analysis. I have a strong foundation in IoT and embedded systems, with proficiency in technologies such as Python, C++, and Flutter. I enjoy creating innovative solutions and contributing to open-source projects.<br/>
