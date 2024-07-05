@@ -38,12 +38,12 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
   <code><img width="15%" src="https://miro.medium.com/max/1400/1*Smbj_VLH7JRp9GhLaKyiUQ.png"></code>
   <code><img width="15%" src="https://github.com/get-icon/geticon/blob/master/icons/nextjs.svg"></code>
-  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mqtt/mqtt-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="15%" src="https://cdn.platformio.org/images/platformio-logo-xs.fd6e881d.png"></code>
+  
   
 </p>
 
