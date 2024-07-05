@@ -10,7 +10,7 @@
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  </a> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="" alt="arduino" width="40" height="40"/> </a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/solidity.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/mqtt.svg" alt="mqtt" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -31,6 +31,14 @@
 <h1 align="center">💻 Tech Stack</h1>
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
+  <code><img width="15%" src="https://miro.medium.com/max/1400/1*Smbj_VLH7JRp9GhLaKyiUQ.png"></code>
+  <code><img width="15%" src="https://github.com/get-icon/geticon/blob/master/icons/nextjs.svg"></code>
+  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
