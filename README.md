@@ -10,6 +10,7 @@
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  </a> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.platformio.org/images/platformio-logo-xs.fd6e881d.png" alt="flutter" width="40" height="40"/> </a
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/solidity.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/mqtt.svg" alt="mqtt" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
