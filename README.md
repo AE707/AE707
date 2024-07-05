@@ -39,14 +39,12 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
-  <code><img width="15%" src="https://miro.medium.com/max/1400/1*Smbj_VLH7JRp9GhLaKyiUQ.png"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mqtt/mqtt-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-  <code><img width="15%" src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   
   
