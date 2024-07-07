@@ -2,7 +2,7 @@
 <h2 align="center"><img src="https://github.com/AE707/AE.-Portfilio/blob/main/public/sFav.png" alt="sFav" width="30" height="30"/> Alaa ElGhoul <img src="https://github.com/AE707/AE.-Portfilio/blob/main/public/sFav.png" alt="sFav" width="30" height="30"/> </h2>
 
 <h2>💫 Summary</h2>
-🌱 As a Master's student in Computer Engineering at Istanbul Atlas University, I am passionate about software development, machine learning, and data analysis. I have a strong foundation in IoT and embedded systems, with proficiency in technologies such as Python, C++, and Flutter. I enjoy creating innovative solutions and contributing to open-source projects.<br/>
+🌱 As a Master's student in Computer Engineering , I am passionate about software development, machine learning, and data analysis. I have a strong foundation in IoT and embedded systems, with proficiency in technologies such as Python, C++, and Flutter. I enjoy creating innovative solutions and contributing to open-source projects.<br/>
 
 <h3 align="left">Current Tech Stack:</h3>
 <p align="left"> 
