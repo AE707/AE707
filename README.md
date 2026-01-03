@@ -1,24 +1,75 @@
-<h1 align="center">Hello World, I'm Alaa 👋</h1>
+<h1 align="center">Hello, I'm Alaa 👋</h1>
 <h2 align="center"><img src="https://github.com/AE707/AE.-Portfilio/blob/main/public/sFav.png" alt="sFav" width="30" height="30"/> Alaa ElGhoul <img src="https://github.com/AE707/AE.-Portfilio/blob/main/public/sFav.png" alt="sFav" width="30" height="30"/> </h2>
 
-<h2>💫 Summary</h2>
-🌱 As a Master's student in Computer Engineering , I am passionate about software development, machine learning, and data analysis. I have a strong foundation in IoT and embedded systems, with proficiency in technologies such as FLutter, C++, and Python. I enjoy creating innovative solutions and contributing to open-source projects.<br/>
+<h3 align="center">Software Engineer | Game Logic • Systems • Embedded</h3>
 
-<h3 align="left">Current Tech Stack:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/alaaelghoul">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  </a>
+  <a href="mailto:AE7_07@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail">
+  </a>
+</p>
+
+---
+
+## 🧠 About Me
+
+I am a **Computer Engineering Master's graduate (coursework completed)** with a strong focus on **software engineering, game logic, and system design**.
+
+My **Master’s thesis is completed** and currently in the **formal submission / defense phase**. Alongside my academic work, I actively build practical systems that emphasize **clean architecture, deterministic logic, and real-world constraints**.
+
+I enjoy working on projects where **rules, state, and behavior are clearly defined**, including embedded systems, interactive applications, and game-oriented logic.
+
+I enjoy building systems where **state, rules, and behavior are clearly defined**, whether that’s:
+- an embedded access-control system,
+- a game with deterministic logic,
+- or a full-stack application with structured data flow.
+
+I value **clean architecture, modular design, and scalability**, and I actively build projects that reflect real-world engineering constraints.
+
+---
+
+## 🛠️ Core Technical Skills
 <p align="left"> 
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a                                                                                                                                                                                                 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="cplusplus" width="40" height="40"/> </a>
+  
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.platformio.org/images/platformio-logo-xs.fd6e881d.png" alt="flutter" width="40" height="40"/> 
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="cplusplus" width="40" height="40"/> </a>
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  </a> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.platformio.org/images/platformio-logo-xs.fd6e881d.png" alt="flutter" width="40" height="40"/> </a
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/miguelsolorio/vscode-symbols/blob/main/src/icons/files/solidity.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/mqtt.svg" alt="mqtt" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<h2>🔧 Career Objective</h2>
-⚡ I am motivated to leverage my current skills and continue expanding my knowledge in the field of software development and IoT. My goal is to lead in the design and development of complex systems, implementing robust and scalable solutions that align with industry best practices.<br/>
+### Programming & Logic
+- **C / C++**, **JavaScript**, **Python**
+- Game logic & state machines
+- Data structures & problem solving
+
+### Frontend & Application
+- **React**
+- HTML / CSS
+- Component-based architecture
+
+### Systems & Embedded
+- **ESP32**, PlatformIO
+- GPIO, timers, hardware–software integration
+- MQTT, IoT fundamentals
+
+### Blockchain (as a System Layer)
+- **Solidity**, Web3.js
+- Smart contract logic & validation
+- Event-driven architecture
+
+### Tooling
+- Git & GitHub
+- Linux / CLI
+- VS Code
 
 <h3 align="left">Learning Queue:</h3>
 <p align="left">
@@ -27,11 +78,44 @@
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="rust" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="aws" width="40" height="40"/> </a>
   
 </p>
 
-<h1 align="center">💻 Tech Stack</h1>
+---
+
+## 📌 Highlight Projects
+
+- 🔐 **AccessControlDoor**  
+  Embedded ESP32 firmware demonstrating authentication logic, state machines, and hardware control.
+
+- 🎮 **Memory Match DApp**  
+  A full-stack game focusing on game rules, deterministic state transitions, and authoritative logic (implemented using blockchain).
+
+> I treat projects as **engineering systems**, not demos.
+
+---
+
+## 🎯 Career Focus
+
+I am aiming for roles where I can:
+- Build **logic-driven systems**
+- Work on **games, simulations, or interactive software**
+- Design **reliable and maintainable architectures**
+- Grow as a **software engineer with strong fundamentals**
+
+
+<!--## 🧠 Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/AE707">
+    <img src="https://leetcard.jacoblin.cool/AE707?theme=dark&ext=heatmap">
+  </a>
+</p>
+
+---
+
+
+<!--<h1 align="center">💻 Tech Stack</h1>
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
@@ -50,24 +134,12 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-  
-  
-  
-  
-  
-</p>
 
-<h1 align="center">📊 Github Summary</h1>
-<br/>
-<a href="https://github.com/AE707">
- <img alt="Alaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AE707&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="54%"  />
-</a>
-<a href="https://github.com/AE707">
- <img alt="Alaa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AE707&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%"  />
-</a>
-<br/>
+</p>-->
 
-<h1 align="center">📊 LeetCode Stats</h1>
+
+## 🧠 Problem Solving
+
 <div align="center">
 <p align="center">
     <a href="https://leetcode.com/AE707">
@@ -85,7 +157,3 @@
 </a>
 
 <br/>
-
-## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alaaelghoul) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:AE7_07@outlook.com)
