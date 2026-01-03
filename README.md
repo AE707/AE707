@@ -73,9 +73,7 @@ I value **clean architecture, modular design, and scalability**, and I actively 
 
 <h3 align="left">Learning Queue:</h3>
 <p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="rust" width="40" height="40"/> </a>
+ <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="rust" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   
@@ -85,10 +83,10 @@ I value **clean architecture, modular design, and scalability**, and I actively 
 
 ## 📌 Highlight Projects
 
-- 🔐 **AccessControlDoor**  
+- 🔐 [**AccessControlDoor**](https://github.com/AE707/AccessControlDoor)
   Embedded ESP32 firmware demonstrating authentication logic, state machines, and hardware control.
 
-- 🎮 **Memory Match DApp**  
+- 🎮 [**Memory Match DApp**](https://github.com/AE707/DApp)
   A full-stack game focusing on game rules, deterministic state transitions, and authoritative logic (implemented using blockchain).
 
 > I treat projects as **engineering systems**, not demos.
@@ -102,41 +100,13 @@ I am aiming for roles where I can:
 - Work on **games, simulations, or interactive software**
 - Design **reliable and maintainable architectures**
 - Grow as a **software engineer with strong fundamentals**
+Interested in teams that value gameplay correctness, performance, and clean system boundaries.
 
-
-<!--## 🧠 Problem Solving
-
-<p align="center">
-  <a href="https://leetcode.com/AE707">
-    <img src="https://leetcard.jacoblin.cool/AE707?theme=dark&ext=heatmap">
-  </a>
-</p>
-
----
-
-
-<!--<h1 align="center">💻 Tech Stack</h1>
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
-  <code><img width="15%" src="https://upload.vectorlogo.zone/logos/mqtt/images/8d554269-27ff-439e-a60b-cacf4943632b.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-
-</p>-->
-
+## 🧩 Engineering Principles
+- Deterministic logic over side effects
+- Explicit state machines
+- Separation of rules and presentation
+- Systems designed to scale, not demos
 
 ## 🧠 Problem Solving
 
