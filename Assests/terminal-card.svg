@@ -1,0 +1,69 @@
+<svg width="1000" height="360" viewBox="0 0 1000 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Alaa ElGhoul terminal profile card</title>
+  <desc id="desc">Animated terminal card showing Alaa ElGhoul's role, AI/automation stack and engineering focus.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1000" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#082F49"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(830 64) rotate(139.642) scale(430 285)">
+      <stop stop-color="#38BDF8" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-30" y="-30" width="1060" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#020617" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+  <rect x="20" y="20" width="960" height="320" rx="22" fill="url(#panel)" filter="url(#shadow)"/>
+  <rect x="20.5" y="20.5" width="959" height="319" rx="21.5" stroke="#334155"/>
+  <rect x="20" y="20" width="960" height="320" rx="22" fill="url(#glow)"/>
+  
+  <!-- Window controls -->
+  <circle cx="58" cy="58" r="7" fill="#F87171"/>
+  <circle cx="82" cy="58" r="7" fill="#FBBF24"/>
+  <circle cx="106" cy="58" r="7" fill="#34D399"/>
+  <path d="M40 88H960" stroke="#334155"/>
+  
+  <!-- Decorative brackets top right -->
+  <g opacity="0.86" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M726 142L760 112" stroke="#38BDF8" stroke-width="9"/>
+    <path d="M726 142L760 172" stroke="#38BDF8" stroke-width="9"/>
+    <path d="M807 106L775 178" stroke="#94A3B8" stroke-width="9"/>
+    <path d="M843 112L877 142" stroke="#38BDF8" stroke-width="9"/>
+    <path d="M843 172L877 142" stroke="#38BDF8" stroke-width="9"/>
+  </g>
+  
+  <!-- Decorative bars bottom right -->
+  <g opacity="0.86" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M838 212H910" stroke="#E2E8F0" stroke-width="10"/>
+    <path d="M838 244H910" stroke="#38BDF8" stroke-width="10"/>
+    <path d="M838 276H878" stroke="#94A3B8" stroke-width="10"/>
+  </g>
+  
+  <!-- Terminal text content -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">
+    <!-- whoami section (normal size) -->
+    <text x="62" y="132" fill="#38BDF8" font-size="25">$ whoami</text>
+    <text x="62" y="170" fill="#E2E8F0" font-size="24">Alaa ElGhoul</text>
+    
+    <!-- stack section with smaller text -->
+    <g opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1;1" keyTimes="0;0.18;0.26;1" dur="7s" repeatCount="indefinite"/>
+      <text x="62" y="218" fill="#38BDF8" font-size="25">$ stack</text>
+      <text x="62" y="252" fill="#CBD5E1" font-size="18">n8n · React · Node.js · TypeScript · Python · C++ · ESP32</text>
+    </g>
+    
+    <!-- focus section with smaller text -->
+    <g opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1;1" keyTimes="0;0.42;0.5;1" dur="7s" repeatCount="indefinite"/>
+      <text x="62" y="294" fill="#38BDF8" font-size="25">$ focus</text>
+      <text x="185" y="294" fill="#E2E8F0" font-size="20">AI-powred product engineering</text>
+    </g>
+    
+    <!-- Blinking cursor -->
+    <rect x="651" y="278" width="14" height="22" rx="2" fill="#38BDF8">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

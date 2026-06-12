@@ -1,134 +1,91 @@
-<h1 align="center">Hello, I'm Alaa 👋</h1>
-<h2 align="center"><img src="https://github.com/AE707/AE.-Portfilio/blob/main/public/sFav.png" alt="sFav" width="30" height="30"/> Alaa ElGhoul <img src="https://github.com/AE707/AE.-Portfilio/blob/main/public/sFav.png" alt="sFav" width="30" height="30"/> </h2>
 
-<h3 align="center">Software Engineer | Game Logic • Systems • Embedded</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/alaaelghoul">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
-  </a>
-  <a href="mailto:AE7_07@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail">
-  </a>
-</p>
+# Alaa ElGhoul
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+## AI Specialist & Automation Engineer | Software/Embedded Systems
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=LLM+%7C+n8n+%7C+React+%7C+TypeScript+%7C+Python+%7C+C%2B%2B+%7C+ESP32;AI+workflows·+automation+and+clean+architecture;Production+systems·+Deterministic+logic·+No+broken+noise!)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/alaaelghoul)
+[![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:AE7_07@outlook.com)
+[![Website](https://img.shields.io/badge/website-AE.com-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://space-portfolio-ae7.vercel.app/)
 
 ---
 
-## 🧠 About Me
+## About
 
-I am a **Computer Engineering Master's graduate (coursework completed)** with a strong focus on **software engineering, game logic, and system design**.
+I'm an **AI Specialist and Automation Engineer** with 4+ years of experience in software and embedded systems. I build LLM-powered applications, n8n automation pipelines, and Claude/OpenAI API-integrated products. My work spans prompt engineering, AI-driven UI development in React, and end-to-end workflow automation with a consistent focus on output quality and clean architecture.
 
-My **Master’s thesis is completed** and currently in the **formal submission / defense phase**. Alongside my academic work, I actively build practical systems that emphasize **clean architecture, deterministic logic, and real-world constraints**.
+I enjoy building systems where **state, rules, and behavior are clearly defined** — whether that's an embedded access-control system, a game with deterministic logic, a full-stack application with structured data flow, or an AI assistant with voice interface.
 
-I enjoy working on projects where **rules, state, and behavior are clearly defined**, including embedded systems, interactive applications, and game-oriented logic.
+I value **clean architecture, modular design, and scalability**. If it ships, it has to work well.
 
-I enjoy building systems where **state, rules, and behavior are clearly defined**, whether that’s:
-- an embedded access-control system,
-- a game with deterministic logic,
-- or a full-stack application with structured data flow.
+![Animated terminal card](Assests/terminal-card.svg)
 
-I value **clean architecture, modular design, and scalability**, and I actively build projects that reflect real-world engineering constraints.
+## What I Build
 
----
+| Area | Focus |
+| --- | --- |
+| **AI & Automation** | LLM-powered apps, n8n pipelines, Claude/OpenAI API integration, conversational AI, voice interfaces |
+| **Web Applications** | AI-driven UIs, dashboards, full-stack apps with structured data flow |
+| **Systems & Embedded** | ESP32 firmware, authentication logic, state machines, hardware control |
+| **Game Logic** | Deterministic state transitions, authoritative logic, memory match DApp |
 
-## 🛠️ Core Technical Skills
-<p align="left"> 
-  
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.platformio.org/images/platformio-logo-xs.fd6e881d.png" alt="flutter" width="40" height="40"/> 
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="cplusplus" width="40" height="40"/> </a>
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/miguelsolorio/vscode-symbols/blob/main/src/icons/files/solidity.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/mqtt.svg" alt="mqtt" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+## Stack
 
-### Programming & Logic
-- **C / C++**, **JavaScript**, **Python**
-- Game logic & state machines
-- Data structures & problem solving
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=38BDF8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=38BDF8)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=22C55E)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=38BDF8)
+![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=FFFFFF)
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=38BDF8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FBBF24)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-### Frontend & Application
-- **React**
-- HTML / CSS
-- Component-based architecture
+## Projects
 
-### Systems & Embedded
-- **ESP32**, PlatformIO
-- GPIO, timers, hardware–software integration
-- MQTT, IoT fundamentals
-
-### Blockchain (as a System Layer)
-- **Solidity**, Web3.js
-- Smart contract logic & validation
-- Event-driven architecture
-
-### Tooling
-- Git & GitHub
-- Linux / CLI
-- VS Code
-
-<h3 align="left">Learning Queue:</h3>
-<p align="left">
- <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="rust" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  
-</p>
-
----
-
-## 📌 Highlight Projects
-
-- 🔐 [**AccessControlDoor**](https://github.com/AE707/AccessControlDoor)
-  Embedded ESP32 firmware demonstrating authentication logic, state machines, and hardware control.
-
-- 🎮 [**Memory Match DApp**](https://github.com/AE707/DApp)
-  A full-stack game focusing on game rules, deterministic state transitions, and authoritative logic (implemented using blockchain).
+| Project | Description |
+| --- | --- |
+| **[JARVIS AI Assistant](https://github.com/AE707)** | React + Claude API + Web Audio API + SpeechRecognition. Multi-turn conversational AI with voice input/output. |
+| **[Fintech Automation Suite](https://github.com/AE707)** | n8n + Retool + Supabase PostgreSQL. Three production-grade automations: transaction approval (50€ threshold), queue buffer system, audit/approval logging pipeline. |
+| **[AccessControlDoor](https://github.com/AE707/AccessControlDoor)** | Embedded ESP32 firmware demonstrating authentication logic, state machines, and hardware control. |
+| **[Memory Match DApp](https://github.com/AE707/DApp)** | Full-stack game with deterministic state transitions and authoritative logic on blockchain. |
 
 > I treat projects as **engineering systems**, not demos.
 
+## Experience
+
+| Company | Role | Scope |
+| --- | --- | --- |
+| **Teleperformance** | Quality Specialist (Jul 2024 - Jan 2026) | Root cause analysis, rule-based evaluation frameworks, measurable process improvements |
+| **Mayors Bike / Slimmezon** | Web Designer & Developer (Oct 2023 - Jun 2024) | React, JS, payment integration, interactive components |
+| **TechInventors** | Software Engineer (Jun 2022 - Sep 2022) | Mobile + web stadium reservation system |
+
+![Recent GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AE707&theme=github-compact&hide_border=true&area=true&custom_title=Recent%20Activity)
+
+## Contact
+
+I'm available for freelance projects, product engineering work, and technical conversations around AI automation, embedded systems, and full-stack development.
+
+- **Email**: [AE7_07@outlook.com](mailto:AE7_07@outlook.com)
+- **LinkedIn**: [linkedin.com/in/alaaelghoul](https://linkedin.com/in/alaaelghoul)
+- **GitHub**: [github.com/AE707](https://github.com/AE707)
+
 ---
 
-## 🎯 Career Focus
+## 👀 Views & Followers
 
-I am aiming for roles where I can:
-- Build **logic-driven systems**
-- Work on **games, simulations, or interactive software**
-- Design **reliable and maintainable architectures**
-- Grow as a **software engineer with strong fundamentals**
-Interested in teams that value gameplay correctness, performance, and clean system boundaries.
-
-## 🧩 Engineering Principles
-- Deterministic logic over side effects
-- Explicit state machines
-- Separation of rules and presentation
-- Systems designed to scale, not demos
-
-## 🧠 Problem Solving
-
-<div align="center">
-<p align="center">
-    <a href="https://leetcode.com/AE707">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alaa's LeetCode streak" src="https://leetcard.jacoblin.cool/AE707?theme=dark&font=Syne%20Mono&ext=heatmap"/>
-    </a>
-</p>
-</div>
-
-## 👀 Views and Followers :white_heart:
 <a href="https://github.com/AE707">
-    <img src="https://komarev.com/ghpvc/?username=AE707">
+  <img src="https://komarev.com/ghpvc/?username=AE707">
 </a>
 <a href="https://github.com/AE707?tab=followers">
-<img src="https://img.shields.io/github/followers/AE707?label=Followers&style=social" alt="GitHub Badge">
+  <img src="https://img.shields.io/github/followers/AE707?label=Followers&style=social" alt="GitHub Badge">
 </a>
 
-<br/>
+---
+
+*Built with clean architecture, deterministic logic, and no broken noise.*

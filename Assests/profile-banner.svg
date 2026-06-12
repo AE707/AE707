@@ -1,0 +1,58 @@
+<svg width="1000" height="280" viewBox="0 0 1000 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#082F49"/>
+    </linearGradient>
+    <linearGradient id="line1" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="1"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.6" gradientUnits="objectBoundingBox">
+      <stop stop-color="#38BDF8" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1000" height="280" fill="url(#bg)"/>
+  <rect width="1000" height="280" fill="url(#glow)"/>
+  
+  <!-- Main title -->
+  <text x="500" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="56" font-weight="700" fill="#E2E8F0" text-anchor="middle" letter-spacing="2">Alaa ElGhoul</text>
+  
+  <!-- Underline glow -->
+  <rect x="350" y="130" width="300" height="3" rx="1.5" fill="#38BDF8" opacity="0.6"/>
+  <rect x="350" y="130" width="300" height="3" rx="1.5" fill="url(#line1)"/>
+  
+  <!-- Subtitle -->
+  <text x="500" y="175" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="24" font-weight="500" fill="#94A3B8" text-anchor="middle" letter-spacing="1">AI Specialist + Automation Engineer</text>
+  
+  <!-- Tech stack row -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', monospace" font-size="16" font-weight="500" text-anchor="middle">
+    <rect x="165" y="210" width="90" height="32" rx="16" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+    <text x="210" y="231" fill="#38BDF8">LLM</text>
+    
+    <rect x="270" y="210" width="80" height="32" rx="16" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+    <text x="310" y="231" fill="#22C55E">n8n</text>
+    
+    <rect x="365" y="210" width="80" height="32" rx="16" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+    <text x="405" y="231" fill="#60A5FA">React</text>
+    
+    <rect x="460" y="210" width="110" height="32" rx="16" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+    <text x="515" y="231" fill="#38BDF8">TypeScript</text>
+    
+    <rect x="585" y="210" width="90" height="32" rx="16" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+    <text x="630" y="231" fill="#FBBF24">Python</text>
+    
+    <rect x="690" y="210" width="70" height="32" rx="16" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+    <text x="725" y="231" fill="#38BDF8">C++</text>
+    
+    <rect x="775" y="210" width="85" height="32" rx="16" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+    <text x="817" y="231" fill="#34D399">ESP32</text>
+  </g>
+  
+  <!-- Bottom accent line -->
+  <rect x="400" y="262" width="200" height="2" rx="1" fill="#334155"/>
+</svg>
