@@ -57,13 +57,6 @@ I value **clean architecture, modular design, and scalability**. If it ships, it
 
 > I treat projects as **engineering systems**, not demos.
 
-## Experience
-
-| Company | Role | Scope |
-| --- | --- | --- |
-| **Teleperformance** | Quality Specialist (Jul 2024 - Jan 2026) | Root cause analysis, rule-based evaluation frameworks, measurable process improvements |
-| **Mayors Bike / Slimmezon** | Web Designer & Developer (Oct 2023 - Jun 2024) | React, JS, payment integration, interactive components |
-| **TechInventors** | Software Engineer (Jun 2022 - Sep 2022) | Mobile + web stadium reservation system |
 
 ![Recent GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AE707&theme=github-compact&hide_border=true&area=true&custom_title=Recent%20Activity)
 
